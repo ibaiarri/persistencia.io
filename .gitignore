@@ -1,0 +1,6 @@
+#fichero de eclipse que no nos interesan
+
+/target/
+/.classpath
+/.project
+/.settings
